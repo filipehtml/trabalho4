@@ -1,0 +1,27 @@
+body {
+   background-image:linear-gradient(to bottom, red, yellow) ;
+}
+
+h1,h2 {
+    margin: 9px;
+   
+}
+ h1:houver{
+     letter-spacing: 10px;
+ }
+#cabeçalho {
+    background-color:#00ffff;
+    color: black;
+    text-align: center;
+    padding: 8px;
+}
+a:hover{
+    color:red;
+}
+#resto {
+    background-color:#00ffff
+
+}
+#h3{
+    text-align: center;
+}
